@@ -1,0 +1,2 @@
+# capstoneSails
+### a Sails application
